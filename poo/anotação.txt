@@ -1,0 +1,12 @@
+Anotações sobre POO (Programação Orientada a Objetos)
+Em POO temos 4 pilares, sendo eles: Encapsulamento, Polimorfismo, Herança e Abstração
+
+Encapsulamento:
+Faz com que os detalhes internos de um objeto não seja acessado diretamente, e
+ai é criado Set e Get, que vão ser métodos públicos, Set para definer o valor
+e o Get é para poder ver o valor
+Ex:
+    public String getNome(){return this nome}; 
+    public void setNome(String name){this.nome = name};
+Exemplo em código nos arquivos: Loja.java e Produto.java
+
