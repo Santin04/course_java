@@ -10,3 +10,8 @@ Ex:
     public void setNome(String name){this.nome = name};
 Exemplo em código nos arquivos: Loja.java e Produto.java
 
+Herança:
+Quando uma classe herda elementos da classe pai dela, assim reutilizando código
+e não precisando ficar reescrevendo, vai ser explicado melhor o conceito ao
+decorrer dos arquivos de exemplos com comentários
+Exemplo em código nos arquivos: Animais.java, Pets.java, Cachorro.java e Gata.java
