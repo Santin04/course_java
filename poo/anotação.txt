@@ -35,3 +35,8 @@ Exemplo em código nos arquivos: Animais.java, Pets.java, Cachorro.java e Gata.j
 -------------------------------------------------------------------------------------
 
 Abstração:
+Cria uma interface e com metodos dentro dela, ai você adiciona abstract e
+implements nomeArquivo no declaração do nome da classe, ai pode usar o metodo e
+alterar se preciso, basta usar o @Override também
+
+Exemplo em código nos arquivos: Animais.java, Pets.java e sonoPet.java
